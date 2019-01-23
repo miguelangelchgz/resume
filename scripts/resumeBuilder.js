@@ -13,10 +13,10 @@ $(function () {
                 email: 'miguelangelchgz@gmail.com',
                 github: 'miguelangelchgz',
                 twitter: '@miguelangelch_',
-                location: 'Maracay'
+                location: ''
             },
             welcomeMessage: 'Hello',
-            skills: ['HTML', 'CSS/SASS', 'JavaScript/ES6', 'JQuery', 'Python', 'Java', 'Android SDK'],
+            skills: ['HTML', 'CSS/SASS', 'JavaScript/ES6', 'JQuery', 'Python', 'Java', 'Android SDK', 'Vue'],
             biopic: 'https://avatars2.githubusercontent.com/u/23442452?s=460&v=4',
             display: function display() {}
         },
